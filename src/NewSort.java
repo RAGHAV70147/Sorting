@@ -1,4 +1,5 @@
 import java.util.Arrays;
+
 public class NewSort {
 	
 	void insertionSort(int array[]) {
